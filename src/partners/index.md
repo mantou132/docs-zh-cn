@@ -1,10 +1,15 @@
 ---
+sidebarIgnore: true
 page: true
 footer: false
 ---
 
-<script setup>
-import PartnerLanding from './components/PartnerLanding.vue'
-</script>
+<gbp-import src="src/partners/partner.ts"></gbp-import>
 
-<PartnerLanding />
+<partner-landing></partner-landing>
+
+<style>
+  :host :not(:defined)::before {
+    content: 'Loading...';
+  }
+</style>

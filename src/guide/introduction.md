@@ -1,4 +1,6 @@
 ---
+navGroup: 文档
+navTitle: 深度指南
 footer: false
 ---
 

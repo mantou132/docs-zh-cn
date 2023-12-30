@@ -1,0 +1,16 @@
+{
+  "title": "Vue.js",
+  "icon": "src/public/logo.svg",
+  "theme": "src/gem-theme.json",
+  "sourceBranch":"gem-book",
+  "onlyFile": true,
+  "homeMode": true,
+  "plugin": ["docsearch", "import"],
+  "template": "src/template.html",
+  "nav": [
+    { "title": "Github", "link": "https://github.com/mantou132/docs-zh-cn" },
+    { "title": "Twitter", "link": "https://twitter.com/vuejs" },
+    { "title": "Discord", "link": "https://discord.com/invite/HBherRA" },
+    { "title": "Play", "link": "https://play.vuejs.org" }
+  ]
+}

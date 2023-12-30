@@ -1,4 +1,5 @@
 ---
+redirect: ./application.md
 title: API 参考
 sidebar: false
 page: true

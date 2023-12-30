@@ -1,4 +1,5 @@
 ---
+sidebarIgnore: true
 page: true
 footer: false
 ---

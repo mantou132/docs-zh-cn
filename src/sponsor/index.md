@@ -1,4 +1,5 @@
 ---
+sidebarIgnore: true
 sidebar: false
 ads: false
 editLink: false
